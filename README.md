@@ -1,0 +1,2 @@
+# IL13-airway-single-cell-omics-analysis
+Integrative single-cell proteogenomics analysis of IL-13-treated airway epithelial cells. This project combines quantitative single-cell proteomics with publicly available scRNA-seq data to investigate RNA–protein concordance and discordance across epithelial cell types, identifying cell type-specific responses to IL-13 and highlighting genes with post-transcriptional regulation.
