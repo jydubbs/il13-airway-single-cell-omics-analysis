@@ -22,7 +22,6 @@ The primary RNA–protein integration uses the Jackson et al. (2020) scRNA-seq d
 
 ---
 
-## Repository structure
 
 ## Repository structure
 
