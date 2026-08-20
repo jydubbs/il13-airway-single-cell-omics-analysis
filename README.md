@@ -29,61 +29,33 @@ The primary RNA–protein integration uses the Jackson et al. (2020) scRNA-seq d
 ```text
 
 .
-
 ├── 01_proteomics_processing/
-
 │   ├── 01_basal_proteomics_preprocessing.R
-
 │   ├── 02_basal_proteomics_detailed_imputed_values.R
-
 │   ├── 03_goblet_proteomics_preprocessing.R
-
 │   ├── 04_goblet_proteomics_detailed_imputed_values.R
-
 │   ├── 05_multiciliated_proteomics_preprocessing.R
-
 │   ├── 06_multiciliated_proteomics_detailed_imputed_values.R
-
 │   ├── 07_club_proteomics_preprocessing.R
-
 │   ├── 08_club_proteomics_detailed_imputed_values.R
-
 │   └── 09_proteomics_qc_analysis.R
-
 │
-
 ├── 02_scrnaseq_processing/
-
 │   ├── 01_jackson_deg_deseq2.R
-
 │   └── 02_GSE229202_processing.ipynb
-
 │
-
 ├── 03_rna_protein_integration/
-
 │   ├── 01_jackson_integration.ipynb
-
 │   ├── 02_GSE229202_integration.ipynb
-
 │   └── 03_missingness_imputation_check.ipynb
-
 │
-
 ├── 04_pathway_enrichment/
-
 │   ├── 01_GO_overrepresentation_global_protein.R
-
 │   └── 02_GO_overrepresentation.R
-
 │
-
 ├── 05_candidate_prioritisation/
-
 │   └── 01_gwas_correlation.ipynb
-
 │
-
 └── README.md
 
 ```
