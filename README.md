@@ -9,8 +9,8 @@ This repository contains the analysis code associated with the MSc Bioinformatic
 
 ## Overview
 
-The main analysis workflow was:
-1. Process the low-input proteomics data and perform differential protein abundance analysis.
+The main analysis workflow:
+1. Process the low-input DIA-MS proteomics data and perform differential protein abundance analysis.
 2. Process and analyse the transcriptomic datasets.
 3. Match protein groups to gene symbols and integrate RNA and protein responses.
 4. Classify genes according to RNA–protein concordance.
@@ -86,26 +86,40 @@ The primary RNA–protein integration uses the Jackson et al. (2020) scRNA-seq d
 
 └── README.md
 
-## Data
+```
+
+## Data sources
 
 ### Proteomics
 Unpublished data, input data not provided.
 
 ### Jackson et al. (2020)
+Publicly available scRNA-seq dataset
 GEO: GSE145013
 
 ### GSE229202
+Publicly available scRNA-seq dataset
 GEO: GSE229202
 
 ## Requirements
 
-Python ...
-R ...
+### Python
 
-## Citation
+- Python 3
+- scanpy
+- pandas
+- numpy
+- scipy
+- matplotlib
+- seaborn
 
-...
+### R
 
-## Licence
+- R
+- DESeq2
+- clusterProfiler
+- org.Hs.eg.db
+- ggplot2
+- dplyr
+- writexl
 
-...
