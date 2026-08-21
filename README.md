@@ -115,7 +115,7 @@ Publicly available scRNA-seq dataset
 
 ---
 
-## Requirements
+## Packages
 
 ### Python
 
