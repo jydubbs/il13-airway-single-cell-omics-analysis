@@ -106,12 +106,12 @@ The primary RNA–protein integration uses the Jackson et al. (2020) scRNA-seq d
 Unpublished data, input data not provided.
 
 ### Jackson et al. (2020)
-Publicly available scRNA-seq dataset
-- GEO: GSE145013
+Publicly available scRNA-seq dataset  
+- GEO: [GSE145013](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145013)
 
 ### GSE229202
-Publicly available scRNA-seq dataset
-- GEO: GSE229202
+Publicly available scRNA-seq dataset  
+- GEO: [GSE229202](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE229202)
 
 ---
 
