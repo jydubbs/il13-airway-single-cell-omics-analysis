@@ -5,7 +5,7 @@ Chronic IL-13 drives airway epithelial remodelling in type 2-high asthma, includ
 
 This study integrated low-input, cell-type-specific DIA-MS proteomics of FACS-sorted airway epithelial cells with published single-cell RNA-seq data to investigate RNA–protein concordance after chronic IL-13 treatment in airway epithelial remodelling. The primary integration used the Jackson et al. (2020) dataset, with GSE229202 used as an second independent transcriptomic reference for selected findings (e.g. CLCA2, ORAI1, STIM1, ITPR2, ITPR3).
 
-This repository contains the analysis code associated with the MSc Bioinformatics research project.
+This repository contains the analysis code associated with the QMUL MSc Bioinformatics research project (2025-2026).
 
 ---
 
